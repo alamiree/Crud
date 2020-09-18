@@ -32,7 +32,7 @@ if(isset($_GET['delete'])){
 	<meta charset = "UTF-8" />
 	<meta name = "viewport" content = "width = device-width, initial-scale = 1">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<link rel = "stylesheet" href = "css/bootstrap.css">
+	<link rel = "stylesheet" href = "bootstrap.css">
 	<link rel = "stylesheet" href = "style.css">
 </head>
 <body>
@@ -77,8 +77,8 @@ if(isset($_GET['delete'])){
 
 </form>
 
-<script src = "js/jquery-3.2.1.js"></script>
-<script src = "js/bootstrap.min.js"></script>
-<script src = "js/script.js"></script>
+<script src = "jquery-3.2.1.js"></script>
+<script src = "bootstrap.min.js"></script>
+<script src = "script.js"></script>
 </body>
 </html>
